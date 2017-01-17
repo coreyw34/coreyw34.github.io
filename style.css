@@ -1,0 +1,93 @@
+.navbar-default{
+  border-bottom: outset;
+  border-top: none;
+  border-left:none;
+  border-right:none;
+  border-color:grey;
+  background-color: black;
+  border-radius: 0px;
+}
+.btn{
+  border-radius:0px;
+  background-color:black;
+  color:white;
+  border-color:white;
+}
+#navbtn{
+  border-radius: 0px;
+  background-color:white;
+  border-color:black;
+}
+.row{
+  margin-bottom:28px;
+}
+.jumbotron{
+  border-radius: 0px;
+  background-color:#681a1a;
+  color:white;
+}
+.page-header{
+  margin-bottom:28px;
+  margin-top: 0px;
+}
+h4{
+  color: grey;
+  font-family:'pt sans',sans-serif;
+}
+#jumbotronmain{
+  margin-bottom:28px;
+  border:none;
+  background-color:#681a1a;
+  color:white;
+}
+#jumbotrontemplate{
+  background-image: url("templatelarge2.jpg");
+  background-size:cover;
+  color:white;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-bottom:0px;
+}
+#jumbotroncontent{
+  background-image: url("content.jpg");
+  background-size:cover;
+  color:white;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-bottom:0px;
+}
+#jumbotroncommunity{
+  background-image: url("communitylarge.jpeg");
+  background-size:cover;
+  color:white;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-bottom:75px;
+}
+.footer{
+  color:white;
+  background-color:black;
+  height:75px;
+  border-style:outset;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  border-color:grey;
+}
+.headlines{
+  font-size:48px;
+  color:white;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+h1{
+  font-family:'merriweather', serif;
+}
+h2{
+  font-family:'PT sans', sans-serif;
+}
+h3{
+  font-family:'pt sans', sans-serif;
+}
+p{
+  font-family:'pt sans',sans-serif;
+}
+.links{
+  color:#681a1a;
+}
